@@ -1,6 +1,6 @@
 {
   "name": "@akihirotakamura/formsy-semantic-ui-react",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Forked. Formsy-React wrappers for Semantic-Ui-React's form Components",
   "repository": {
     "type": "git",
@@ -51,7 +51,7 @@
     "eslint-config-airbnb": "^2.1.1",
     "eslint-plugin-mocha": "^1.0.0",
     "eslint-plugin-react": "^3.13.0",
-    "formsy-react": "1.1.1",
+    "@akihirotakamura/formsy-react": ">=1.2.0",
     "ignore-styles": "^5.0.1",
     "jsdom": "^9.5.0",
     "mocha": "^2.5.3",
