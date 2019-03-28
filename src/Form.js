@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Formsy from 'formsy-react';
+import Formsy from '@akihirotakamura/formsy-react';
 import { Form as SemanticUIForm } from 'semantic-ui-react';
 import FormsyInput from './FormsyInput';
 import FormsyTextArea from './FormsyTextArea';

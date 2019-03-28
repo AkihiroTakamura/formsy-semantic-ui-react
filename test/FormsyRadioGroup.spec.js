@@ -2,7 +2,7 @@ import React from 'react';
 import { mount } from 'enzyme';
 import { assert } from 'chai';
 import { RadioGroup } from '../src';
-import Form from 'formsy-react';
+import Form from '@akihirotakamura/formsy-react';
 import { Radio } from 'semantic-ui-react';
 
 const validationError = 'Vaidation Error';

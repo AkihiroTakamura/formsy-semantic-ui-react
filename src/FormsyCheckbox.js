@@ -1,6 +1,6 @@
 import React, { Component, createElement, cloneElement } from 'react';
 import PropTypes from 'prop-types';
-import { withFormsy } from 'formsy-react';
+import { withFormsy } from '@akihirotakamura/formsy-react';
 import { Form, Checkbox, Radio } from 'semantic-ui-react';
 import { filterSuirElementProps } from './utils';
 

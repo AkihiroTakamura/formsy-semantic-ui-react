@@ -3,7 +3,7 @@ import { mount } from 'enzyme';
 import { assert } from 'chai';
 import FormsyInput from '../src/FormsyInput';
 import { Input } from 'semantic-ui-react';
-import Form from 'formsy-react';
+import Form from '@akihirotakamura/formsy-react';
 
 const validValue = 'john.doe@test.com';
 const invalidValue = 'Invalid Input';

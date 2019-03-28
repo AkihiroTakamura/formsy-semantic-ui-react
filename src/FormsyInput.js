@@ -1,5 +1,5 @@
 import React, { Component, createElement, cloneElement } from 'react';
-import { withFormsy } from 'formsy-react';
+import { withFormsy } from '@akihirotakamura/formsy-react';
 import { Form, Input, TextArea } from 'semantic-ui-react';
 import { filterSuirElementProps } from './utils';
 import PropTypes from 'prop-types';
